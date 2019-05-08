@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiamondModule name="ramdq" module="ramdq" VendorName="Lattice Semiconductor Corporation" generator="IPexpress" date="2019 05 07 20:00:34.728" version="7.5" type="Module" synthesis="lse" source_format="VHDL">
+  <Package>
+		<File name="" type="" modified="2019 05 07 20:00:34.587"/>
+		<File name="f:/fpga/psram-intf/src/ramdq/fill.mem" type="mem" modified="2019 05 07 15:11:22.375"/>
+		<File name="ramdq.lpc" type="lpc" modified="2019 05 07 20:00:32.519"/>
+		<File name="ramdq.vhd" type="top_level_vhdl" modified="2019 05 07 20:00:32.643"/>
+		<File name="ramdq_tmpl.vhd" type="template_vhdl" modified="2019 05 07 20:00:32.647"/>
+		<File name="tb_ramdq_tmpl.vhd" type="testbench_vhdl" modified="2019 05 07 20:00:32.655"/>
+  </Package>
+</DiamondModule>
